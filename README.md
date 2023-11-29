@@ -1,5 +1,5 @@
 # StrataScratch
-Здесь приведены решения задач на SQL и python(pandas) c [StrataScratch](https://www.stratascratch.com).
+Здесь приведены решения задач на SQL и python(pandas) c [StrataScratch](https://www.stratascratch.com)
 
 ## Решено задач: ``
 |  ID  | Название | Сложность | Решение на PostgreSQL | Решение на Python(Pandas) |
