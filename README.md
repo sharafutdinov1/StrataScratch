@@ -13,3 +13,4 @@
 |7|10308|[Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=1)|Easy|[Link](https://github.com/sharafutdinov1/StrataScratch/blob/main/sql/10308.sql)|
 |8|10304|[Risky Projects](https://platform.stratascratch.com/coding/10304-risky-projects?code_type=1)|Medium|[Link](https://github.com/sharafutdinov1/StrataScratch/blob/main/sql/10304.sql)|
 |9|10303|[Top Percentile Fraud](https://platform.stratascratch.com/coding/10303-top-percentile-fraud?code_type=1)|Hard|[Link](https://github.com/sharafutdinov1/StrataScratch/blob/main/sql/10303.sql)|
+|10|10300|[Premium vs Freemium](https://platform.stratascratch.com/coding/10300-premium-vs-freemium?code_type=3)|Hard|[Link](https://github.com/sharafutdinov1/StrataScratch/blob/main/sql/10300.sql)|
